@@ -1,5 +1,3 @@
-#PohonBerbunga
-
 import random
 from math import sqrt
 from turtle import *
